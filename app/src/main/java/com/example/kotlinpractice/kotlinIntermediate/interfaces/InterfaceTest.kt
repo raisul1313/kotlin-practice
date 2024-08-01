@@ -1,4 +1,4 @@
-package com.example.kotlinpractice.interfaces
+package com.example.kotlinpractice.kotlinIntermediate.interfaces
 
 fun main(args: Array<String>) {
 

@@ -1,4 +1,4 @@
-package com.example.kotlinpractice.objectOrientedProgramming
+package com.example.kotlinpractice.kotlinIntermediate.objectOrientedProgramming
 
 open class Vehicle {
     var type: String? = null

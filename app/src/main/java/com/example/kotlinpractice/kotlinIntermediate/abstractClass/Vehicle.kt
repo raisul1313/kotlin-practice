@@ -1,4 +1,4 @@
-package com.example.kotlinpractice.abstractClass
+package com.example.kotlinpractice.kotlinIntermediate.abstractClass
 
 abstract class Vehicle {
 

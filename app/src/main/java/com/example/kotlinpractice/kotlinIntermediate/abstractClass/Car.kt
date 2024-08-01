@@ -1,4 +1,4 @@
-package com.example.kotlinpractice.abstractClass
+package com.example.kotlinpractice.kotlinIntermediate.abstractClass
 
 class Car(override var model: Int) : Vehicle() {
 

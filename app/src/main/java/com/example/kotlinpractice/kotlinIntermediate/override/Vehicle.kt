@@ -1,4 +1,4 @@
-package com.example.kotlinpractice.override
+package com.example.kotlinpractice.kotlinIntermediate.override
 
 open class Vehicle {
 

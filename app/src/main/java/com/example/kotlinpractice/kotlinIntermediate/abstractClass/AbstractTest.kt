@@ -1,4 +1,4 @@
-package com.example.kotlinpractice.abstractClass
+package com.example.kotlinpractice.kotlinIntermediate.abstractClass
 
 fun main(args: Array<String>) {
 

@@ -1,4 +1,4 @@
-package com.example.kotlinpractice.interfaces
+package com.example.kotlinpractice.kotlinIntermediate.interfaces
 
 class Vehicles : CanGo, CanStop {
     override val name: String

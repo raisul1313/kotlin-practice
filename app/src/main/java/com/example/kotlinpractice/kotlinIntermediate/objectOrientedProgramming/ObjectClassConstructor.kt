@@ -1,4 +1,4 @@
-package com.example.kotlinpractice.objectOrientedProgramming
+package com.example.kotlinpractice.kotlinIntermediate.objectOrientedProgramming
 
 fun main(args: Array<String>) {
 
